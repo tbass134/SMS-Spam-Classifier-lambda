@@ -1,0 +1,4 @@
+flask
+requests
+nexmo
+python-dotenv
